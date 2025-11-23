@@ -18,3 +18,10 @@ Disabling collision reduces CPU physics cost across all 1,000 cubes.
 ### **2. Removed Fire Particle System**  
 The Cascade fire effect generated significant GPU and overdraw cost.  
 Removing it for the after-test results in a cleaner and lighter scene.
+
+## How to Reproduce  
+1. Open the project in Unreal Engine.  
+2. Load the main map containing the cube field.  
+3. Ensure the FPS overlay is active.  
+4. Observe performance with and without the fire effect / collision disabled.  
+5. Compare FPS directly, as shown in the demo video.
