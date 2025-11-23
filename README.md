@@ -1,4 +1,4 @@
-# Cita417Lab5
+# Cita417Lab6
 Youtube Video Link - https://www.youtube.com/watch?v=05zYNpodtqY
 
 This project demonstrates how content-aware tuning in Unreal Engine can improve runtime performance. A large number of static cubes and a Cascade fire particle system were used to create a baseline “stress” environment. Two simple optimizations were applied to show measurable FPS improvement.
